@@ -1,7 +1,7 @@
 # 🗣️ Voice-Activated Personal Assistant
 **Your Intelligent, Voice-Powered Helper**
 
-This project was created as part of the CODEXINTERN Python Development Internship (December 2024). It showcases skills in Python programming, API integration, and building voice-enabled applications. From setting reminders to fetching real-time weather updates, this assistant is your productivity companion.
+This project showcases skills in Python programming, API integration, and building voice-enabled applications. From setting reminders to fetching real-time weather updates, this assistant is your productivity companion.
 
 ## 🌟 Key Features
 - 🎙️ **Voice Recognition**: Understands and processes user commands through speech recognition.
